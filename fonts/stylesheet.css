@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "Baloo2-SemiBold";
+    src: url("Baloo2-SemiBold.ttf") format("truetype"), url("Baloo2-SemiBold.woff") format("woff"), url("Baloo2-SemiBold.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "Baloo2-Medium";
+    src: url("Baloo2-Medium.ttf") format("truetype"), url("Baloo2-Medium.woff") format("woff"), url("Baloo2-Medium.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "Baloo2-Regular";
+    src: url("Baloo2-Regular.ttf") format("truetype"), url("Baloo2-Regular.woff") format("woff"), url("Baloo2-Regular.woff2") format("woff2");
+}
